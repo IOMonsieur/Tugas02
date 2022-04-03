@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package project2;
+
+/**
+ *
+ * @author user
+ */
+public class Project2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        String[][]nama =
+        {
+            {"Adi 127647 Teknik Informatika ","Mika 129883 Sistem Komputer ","Budi 120495 Sistem Komputer ","Bunga 123489 Teknik Informatika"},
+                        
+        };
+        System.out.println((nama[0][0]));
+        System.out.println((nama[0][1]));
+        System.out.println((nama[0][2]));
+        System.out.println((nama[0][3]));
+    }
+    
+}
